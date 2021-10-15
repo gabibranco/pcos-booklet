@@ -2,14 +2,34 @@ body {
   font-family: 'VT323', monospace;
   background-color: #F9D4BB;
   color: #664E4C;
+  text-shadow: 2px 2px #E2D58B;
 }
 
 a {
   color: #C1D37F;
   text-shadow: 2px 2px #F0E2A3;
+  text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: none;
   color: #B5CB67;
+  text-shadow: 2px 2px #7765E3
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2em;
+  color: #FDF3EC;
+  text-shadow: 2px 2px #3B60E4;
+}
+
+.content {
+  margin-top:  auto;
 }
