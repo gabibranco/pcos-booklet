@@ -33,3 +33,7 @@ p {
 .content {
   margin-top:  auto;
 }
+
+.image {
+  height: 40vh;
+}
