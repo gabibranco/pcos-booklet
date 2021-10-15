@@ -17,15 +17,15 @@ a:hover {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 6.5vmin;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 6vmin;
 }
 
 p {
-  font-size: 2em;
+  font-size: 4vmin;
   color: #FDF3EC;
   text-shadow: 2px 2px #3B60E4;
 }
@@ -46,7 +46,7 @@ hr {
 }
 
 .resources p {
-  font-size: 1.5em;
+  font-size: 3.5vmin;
   color:  #664E4C;
   text-shadow: none;
 }
