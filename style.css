@@ -13,7 +13,7 @@ a {
 
 a:hover {
   color: #B5CB67;
-  text-shadow: 2px 2px #7765E3
+  text-shadow: 2px 2px #7765E3;
 }
 
 h1 {
@@ -35,5 +35,22 @@ p {
 }
 
 .image {
-  height: 40vh;
+  height: 30vh;
+  box-shadow: ;
+}
+
+hr {
+  border-top: 2px dashed #3B60E4;
+  border-bottom: 2px dashed #FDF3EC;
+  width: 80%;
+}
+
+.resources p {
+  font-size: 1.5em;
+  color:  #664E4C;
+  text-shadow: none;
+}
+
+.resources p a:hover {
+  text-shadow: 1px 1px #7765E3;
 }
